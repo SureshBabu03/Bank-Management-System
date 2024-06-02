@@ -1,0 +1,44 @@
+body{
+    background-image: url("/bank/images/bank.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+form {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+  }
+   
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    padding-right: 30px;
+    font-weight: bold;
+    color: red;
+  }
+  
+  input[type="text"], input[type="email"], input[type="date"], input[type="number"] {
+    padding: 8px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+  }
+  
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  

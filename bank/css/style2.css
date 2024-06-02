@@ -1,0 +1,17 @@
+body{
+    background-image: url("/bank/images/lock.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container{
+    top: 50%;
+    left: 80%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.card{
+    padding: 50px 40px 50px 40px;
+    background: skyblue;
+    border-radius: 10px;
+}

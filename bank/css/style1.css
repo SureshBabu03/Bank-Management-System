@@ -1,0 +1,21 @@
+body{
+    background-image: url("/bank/images/home.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}         
+.container{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    }
+
+.card{
+    padding: 50px 40px 50px 40px;
+    background: skyblue;
+    border-radius: 10px;
+    }
+ h1{
+   color: white;
+    }

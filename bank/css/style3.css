@@ -1,0 +1,14 @@
+body
+{
+    background-image: url("/bank/images/c.jpeg");
+    background-size: cover;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.type
+{
+    text-align: center;
+}
+head,h1{
+    color:red;
+}
